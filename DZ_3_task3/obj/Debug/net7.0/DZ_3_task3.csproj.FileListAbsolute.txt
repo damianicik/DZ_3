@@ -1,0 +1,15 @@
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/bin/Debug/net7.0/DZ_3_task3
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/bin/Debug/net7.0/DZ_3_task3.deps.json
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/bin/Debug/net7.0/DZ_3_task3.runtimeconfig.json
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/bin/Debug/net7.0/DZ_3_task3.dll
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/bin/Debug/net7.0/DZ_3_task3.pdb
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.csproj.AssemblyReference.cache
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.AssemblyInfoInputs.cache
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.AssemblyInfo.cs
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.csproj.CoreCompileInputs.cache
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.dll
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/refint/DZ_3_task3.dll
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.pdb
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/DZ_3_task3.genruntimeconfig.cache
+/Users/nataliavolkova/Desktop/GB/seminar3/DZ_3/DZ_3_task3/obj/Debug/net7.0/ref/DZ_3_task3.dll
